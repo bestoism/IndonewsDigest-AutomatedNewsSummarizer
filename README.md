@@ -95,8 +95,3 @@ To run this application on your own machine, follow these steps:
     streamlit run app.py
     ```
     Your browser should automatically open a new tab with the running application.
-
-## 📸 Application Demo
-
-![Application Screenshot](<img width="1920" height="1857" alt="image" src="https://github.com/user-attachments/assets/f2b2a492-8c4c-4b87-ad49-16797b690918" />
-)
