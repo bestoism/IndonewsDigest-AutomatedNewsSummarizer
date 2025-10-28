@@ -95,3 +95,7 @@ To run this application on your own machine, follow these steps:
     streamlit run app.py
     ```
     Your browser should automatically open a new tab with the running application.
+
+    ---
+
+🚧 This project is under construction — stay tuned for more updates!
